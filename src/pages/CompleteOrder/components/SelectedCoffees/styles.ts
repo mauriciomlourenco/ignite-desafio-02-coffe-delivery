@@ -1,4 +1,4 @@
-import { SectionBaseStyle } from './../styles'
+import { SectionBaseStyle } from '../../styles'
 import styled from 'styled-components'
 
 export const SelectedCoffeesContainer = styled.div`
